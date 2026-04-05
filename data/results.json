@@ -1,5 +1,27 @@
 [
   {
+    "title": "Soils as extended composite phenotypes",
+    "authors": [
+      "Jonathan D. Phillips"
+    ],
+    "year": "2009",
+    "publisher": "Elsevier B.V.",
+    "researchType": "Primary Literature",
+    "publicationType": "Research/Original Article",
+    "applicationScenario": [],
+    "applicationLocation": [],
+    "researchFoci": [
+      "Materials Science"
+    ],
+    "findings": "The document posits that soils represent an 'extended composite phenotype'—a manifestation of the cumulative, interacting effects of genes through the actions of organisms over geological timescales, reflecting not just environmental influences but biological evolution and selective pressures.",
+    "result": "The research demonstrates through evidence in the Ouachita Mountains that changes in selective pressures (specifically fire frequency) on tree species are linked to qualitative changes in soil morphology, providing empirical support for the conceptual framework of soils as extended composite phenotypes.",
+    "confidenceIndex": 0.95,
+    "supportingExtract": "The cumulative, interacting, overlapping effects of these extended phenotypes as manifested in the soil represent an extended composite phenotype... This is demonstrated via recent research in the Ouachita Mountains, Arkansas, where changes in selective pressures on trees associated with fire frequency are linked to changes in soil morphology.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2009 Jonathan D. Phillips.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2009 Jonathan D. Phillips.pdf"
+  },
+  {
     "title": "The principle of topological interlocking in extraterrestrial construction",
     "authors": [
       "A.V. Dyskin",
@@ -9,7 +31,7 @@
       "A.J. Kanel-Belov"
     ],
     "year": "2005",
-    "publisher": "Elsevier Ltd",
+    "publisher": "Elsevier Ltd.",
     "researchType": "Primary Literature",
     "publicationType": "Research/Original Article",
     "applicationScenario": [
@@ -22,12 +44,14 @@
       "Space"
     ],
     "researchFoci": [
+      "Materials Science",
       "Specialized Construction Techniques",
-      "Additive & Automated Construction",
       "Structural Design"
     ],
+    "findings": "Topological interlocking of osteomorphic bricks creates mortar-free, self-adjusting structures that are tolerant to manufacturing inaccuracies, require minimal surface preparation, and demonstrate higher fracture resistance compared to solid plate structures.",
+    "result": "In experimental tests, an assembly of osteomorphic blocks failed at an average indentation load of 11.93 kN, whereas a solid reference plate of the same size and material failed at 9.9 kN, representing approximately 10% higher load-bearing capacity for the assembly.",
     "confidenceIndex": 1,
-    "supportingExtract": "Applications of a newly established principle of topological interlocking to different types of extraterrestrial construction are considered. This paper introduces the principle of topological interlocking and considers conceptually some applications in both planetary and space construction.",
+    "supportingExtract": "In the reported series of tests the assembly failed at the average indentation load of 11.93 kN, while the solid plate failed at the average load of 9.9 kN, which is about 10% lower than that of the assembly.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2005 A.V. Dyskin.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2005 A.V. Dyskin.pdf"
@@ -41,7 +65,7 @@
     "year": "2010",
     "publisher": "ASCE",
     "researchType": "Primary Literature",
-    "publicationType": "Conference Paper/Proceedings",
+    "publicationType": "Research/Original Article",
     "applicationScenario": [
       "Surface",
       "Underground"
@@ -52,36 +76,15 @@
     ],
     "researchFoci": [
       "Geotechnical Engineering",
-      "Structural Design",
-      "ISRU"
+      "Structural Design"
     ],
-    "confidenceIndex": 1,
-    "supportingExtract": "This paper has been prepared for inclusion in the ASCE Geo Institute Geotechnical Special Publication honoring our distinguished colleague, Clyde N. Baker, Jr. ... The purposes of this paper are to summarize current knowledge and understanding of the types and geotechnical properties of the soils on the Moon and Mars, and to identify some important considerations in geotechnical engineering for safe operations and facility design and construction in the unique and harsh environmental conditions encountered there.",
+    "findings": "The document synthesizes current knowledge on the geological composition, geotechnical properties, and in-situ states of lunar and Martian soils, identifying how extreme extraterrestrial environments (gravity, temperature, vacuum/atmosphere) complicate infrastructure design and construction compared to terrestrial standards.",
+    "result": "The study concludes that while lunar and Martian soils are broadly similar to fine sandy silts on Earth, engineering requires unique considerations: lunar soil strength increases significantly with depth due to rapid increases in relative density, and dynamic forces on both bodies act differently relative to gravity compared to Earth, necessitated by the absence of water and clay on the Moon and the complex, sulfate-rich composition on Mars.",
+    "confidenceIndex": 0.95,
+    "supportingExtract": "The purposes of this paper are to summarize current knowledge and understanding of the types and geotechnical properties of the soils on the Moon and Mars, and to identify some important considerations in geotechnical engineering for safe operations and facility design and construction in the unique and harsh environmental conditions encountered there.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2010 James K. Mitchell1.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2010 James K. Mitchell1.pdf"
-  },
-  {
-    "title": "Soils as extended composite phenotypes",
-    "authors": [
-      "Jonathan D. Phillips"
-    ],
-    "year": "2009",
-    "publisher": "Elsevier B.V.",
-    "researchType": "Primary Literature",
-    "publicationType": "Research/Original Article",
-    "applicationScenario": [],
-    "applicationLocation": [
-      "Space"
-    ],
-    "researchFoci": [
-      "Materials Science"
-    ],
-    "confidenceIndex": 0.9,
-    "supportingExtract": "The notion of genetic signatures in soil morphology also has implications for the search for extraterrestrial life, and extends the notion of Earth as a set of tightly-coupled, densely interwoven systems.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2009 Jonathan D. Phillips.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2009 Jonathan D. Phillips.pdf"
   },
   {
     "title": "Laboratory-Scale Distributed Pressure Measurements of Blade Interaction with JSC-1A Lunar Simulant",
@@ -101,34 +104,17 @@
     ],
     "researchFoci": [
       "ISRU",
+      "Geotechnical Engineering",
       "Materials Science",
       "Structural Design"
     ],
+    "findings": "A V-shaped blade with a tapered curve is the optimal configuration for lunar excavation, and multiple passes of small-depth cuts constitute the most efficient excavation procedure.",
+    "result": "The project developed empirical pressure distribution models including an array of point pressures, a quadratic function, and an exponential function for use in finite-element and discrete-element design models.",
     "confidenceIndex": 1,
-    "supportingExtract": "Because of the requirement for high reliability and very low weight, extraterrestrial excavator blade design for in situ resource utilization (ISRU) must be more precise than for current terrestrial practice. ... This project measured the pressure distribution on a suite of laboratory-scale blades. ... The work concluded that a V-shaped blade with a tapered curve is the best con guration",
+    "supportingExtract": "The work concluded that a V-shaped blade with a tapered curve is the best con fi guration, and multiple passes of small-depth cuts is the best excavation operating procedure. ... The models include: an array of point pressures, a quadratic function, and an exponential function.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2013 Robert H. King.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2013 Robert H. King.pdf"
-  },
-  {
-    "title": "Considering Construction of Conservative/Liberal Meaning: What an Extraterrestrial Might Discover About Branding Strategy in the C-SPAN Video Library",
-    "authors": [
-      "Robert L. Kerr"
-    ],
-    "year": "2016",
-    "publisher": "Purdue University Press",
-    "researchType": "Primary Literature",
-    "publicationType": "Research/Original Article",
-    "applicationScenario": [],
-    "applicationLocation": [],
-    "researchFoci": [
-      "Media, Politics & Discourse."
-    ],
-    "confidenceIndex": 1,
-    "supportingExtract": "In this study of what constructed meaning in media discourse reveals about recent changes in political semantics, the power of political branding strategy is demonstrated through a remarkable lesson in not missing the forest for the trees.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2016 Robert L. Kerr.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2016 Robert L. Kerr.pdf"
   },
   {
     "title": "Microwave processing of lunar soil for supporting longer-term surface exploration on the Moon",
@@ -150,14 +136,68 @@
     "researchFoci": [
       "ISRU",
       "Materials Science",
-      "Additive & Automated Construction",
-      "Specialized Construction Techniques"
+      "Additive & Automated Construction"
     ],
+    "findings": "The review identifies three key research areas for microwave processing: addressing challenges of heating lunar soil at 2.45 GHz and testing alternative frequencies; understanding the relationship between dielectric properties (density, grain size) and microwave coupling; and testing the mechanical strength and endurance of fabricated products against space hazards.",
+    "result": "Not explicitly stated",
     "confidenceIndex": 1,
-    "supportingExtract": "This article reviews our current understanding of the dielectric behaviour of lunar soil in the micro- wave spectrum... We also review the existing literature on the microwave processing of lunar soil and identify three key research areas where future efforts are needed",
+    "supportingExtract": "This article reviews our current understanding of the dielectric behaviour of lunar soil in the microwave spectrum... We also review the existing literature on the microwave processing of lunar soil and identify three key research areas where future efforts are needed to make significant advances in understanding the potential of microwave processing of lunar soil for construction purposes.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2016 Vibha Srivastava.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2016 Vibha Srivastava.pdf"
+  },
+  {
+    "title": "Considering Construction of Conservative/Liberal Meaning: What an Extraterrestrial Might Discover About Branding Strategy in the C-SPAN Video Library",
+    "authors": [
+      "Robert L. Kerr"
+    ],
+    "year": "2016",
+    "publisher": "Purdue University Press",
+    "researchType": "Primary Literature",
+    "publicationType": "Research/Original Article",
+    "applicationScenario": [],
+    "applicationLocation": [],
+    "researchFoci": [
+      "Media, Politics & Discourse."
+    ],
+    "findings": "Conservatives are dominant in the construction of political meaning regarding both 'conservatism' and 'liberalism' within the C-SPAN Video Library, while liberalism lacks a comparable branding presence.",
+    "result": "Searching the database for 'conservatism' yields almost exclusively self-identified conservatives, and searching for 'liberalism' similarly yields almost exclusively self-identified conservatives discussing liberalism.",
+    "confidenceIndex": 1,
+    "supportingExtract": "To provide a short summary of the findings discussed in more detail below in the sections Searching for Conservatism and Searching for Liberalism, our extraterrestrial would find significant evidence to support the argument that in terms of branding strategy, conservatism is indeed now a brand quite compellingly established—and that liberalism conversely seems to have scarcely any branding presence of its own provenance. For he would discover that searching the database with a simple focus on the term conservatism would produce, almost exclusively, video recordings of individuals who represent themselves as conservatives discussing conservatism. And he would discover that searching the database with the term liberalism would produce, almost exclusively, video recordings of individuals who represent themselves as conservatives discussing liberalism.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2016 Robert L. Kerr.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2016 Robert L. Kerr.pdf"
+  },
+  {
+    "title": "SPACE RESEARCH AND EXTRATERRESTRIAL CONSTRUCTION INDUSTRY",
+    "authors": [
+      "Yusuf Cengiz TOKLU",
+      "Ali Erdem ÇERÇEVIK"
+    ],
+    "year": "2017",
+    "publisher": "IEEE Xplore",
+    "researchType": "Secondary Literature",
+    "publicationType": "Review Article",
+    "applicationScenario": [
+      "Surface"
+    ],
+    "applicationLocation": [
+      "Moon",
+      "Mars"
+    ],
+    "researchFoci": [
+      "ISRU",
+      "Construction Management & Planning",
+      "Specialized Construction Techniques",
+      "Structural Design"
+    ],
+    "findings": "The document posits that the transition from globalization on Earth to 'spatialization' is a natural historical continuation that necessitates the development of advanced extraterrestrial construction capabilities, particularly the reliance on in-situ resource utilization (ISRU) to reduce the high costs and risks of transporting materials from Earth.",
+    "result": "The study outlines that the evolution of space habitat production will increasingly favor in-situ resource-based products over terrestrial-sourced ones, requiring innovations in automated construction, smart structural monitoring, and advanced waste management.",
+    "confidenceIndex": 0.95,
+    "supportingExtract": "In the present article, an overview of space research is presented together with the innovations awaited in space construction industry... The evolution of habitats produced in these 5 manners will somehow be as shown in Figure 5. This figure shows that the proportion of products 1 and 2, which are produced using resources coming from only Earth will be reduced as time goes on, and the proportion of those which are produced on space bodies will increase with time.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2017 Yusuf Cengiz.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2017 Yusuf Cengiz.pdf"
   },
   {
     "title": "Effect of grain size distribution on stress-strain behavior of lunar soil simulants",
@@ -179,8 +219,10 @@
       "Geotechnical Engineering",
       "Materials Science"
     ],
+    "findings": "Various gradational parameters (mean grain size, coefficient of uniformity, and fines content) influence the shear strength, volumetric dilatancy, and the rate of dilatancy of lunar soil simulant specimens at different levels when compared at the same density or void ratio.",
+    "result": "The study found that for the first pair of simulants (GRC-1 vs. TJ-1), the potential influence of coefficient of uniformity on increasing drained strength is counterbalanced by the fines content effect. For the second pair (BP-1 vs. QH-E), the simulant with smaller mean grain size (D50) and greater fines content was observed to be slightly stronger.",
     "confidenceIndex": 1,
-    "supportingExtract": "The goal of this study is to investigate how and to what extent the variations in the grain size distribution of different lunar soil simulants affect their shear strength and volume change behaviors, both of which are quite important for constitutive modeling and geotechnical design.",
+    "supportingExtract": "The results indicate that various gradational parameters, such as mean grain size, coefficient of uniformity and fines content influence the shear strength, the amount of volumetric dilatancy, and the rate of dilatancy of simulant specimens in different levels when they were compared at the same density or void ratio. [...] It seems that possible influence of coefficient of uniformity to increase the drained strength is counterbalanced with the fines content effect [...] In the case of Y-BP-1 (SM) versus Y-QH-E (ML), it seems that the smaller D50 and greater fines content of Y-QH-E made it slightly stronger than Y-BP-1 when the samples are prepared at the same initial density.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2017 Mehmet Murat Monkul.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2017 Mehmet Murat Monkul.pdf"
@@ -208,47 +250,18 @@
       "Surface"
     ],
     "applicationLocation": [
-      "Space"
+      "Mars"
     ],
     "researchFoci": [
       "Biotechnology & Bio-Inspired Materials"
     ],
+    "findings": "The study concludes that the nano-, micro- and macroscale fabrics of the Pleistocene Mono Lake carbonate chimneys were influenced by the presence of centimetre-thick tubular and vertically stacked calcifying microbial mats, supporting a geobiological model for their construction.",
+    "result": "Correlative microscopy (NanoSIMS, FIB-SEM, TEM) provided evidence that benthic cyanobacteria and their associated extracellular organic material (EOM) formed tubular biofilms that acted as templates for calcite nucleation and primary crystal growth in the chimneys.",
     "confidenceIndex": 0.95,
-    "supportingExtract": "Lacustrine carbonate chimneys are striking, metre-scale constructions. If these were bioinfluenced constructions, they could be priority targets in the search for early and extraterrestrial microbial life. Here, we use correlative microscopy to show that microbes were living around Pleistocene Mono Lake carbonate chimneys during their growth.",
+    "supportingExtract": "We suggest that the nano- , micro- and macroscale fabrics of these Pleistocene Mono Lake chimneys were affected by the presence of centimetre- thick tubular and vertically stacked calcifying microbial mats. Such carbonate chimneys represent a promising macro- scale target in the exploration for ancient or extraterrestrial life.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Alexander Brasier.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2018 Alexander Brasier.pdf"
-  },
-  {
-    "title": "SPACE RESEARCH AND EXTRATERRESTRIAL CONSTRUCTION INDUSTRY",
-    "authors": [
-      "Yusuf Cengiz TOKLU",
-      "Ali Erdem ÇERÇEVIK"
-    ],
-    "year": "2017",
-    "publisher": "IEEE",
-    "researchType": "Secondary Literature",
-    "publicationType": "Review Article",
-    "applicationScenario": [
-      "Surface"
-    ],
-    "applicationLocation": [
-      "Moon",
-      "Mars"
-    ],
-    "researchFoci": [
-      "ISRU",
-      "Geotechnical Engineering",
-      "Materials Science",
-      "Additive & Automated Construction",
-      "Structural Design",
-      "Systems Engineering and Design."
-    ],
-    "confidenceIndex": 0.95,
-    "supportingExtract": "In the present article, an overview of space research is presented together with the innovations awaited in space construction industry and the importance of feedback of these studies to construction industry in general.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2017 Yusuf Cengiz.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2017 Yusuf Cengiz.pdf"
   },
   {
     "title": "The Multiplanetary Future of Plant Synthetic Biology",
@@ -271,44 +284,15 @@
     "researchFoci": [
       "ISRU",
       "Biotechnology & Bio-Inspired Materials",
-      "Life Support & Human Factors",
-      "Systems Engineering and Design."
+      "Materials Science"
     ],
-    "confidenceIndex": 1,
-    "supportingExtract": "In this article, we extend the existing body of work on the use of microbes [8–11] and argue that synthetic biology will provide the means for outpacing terrestrial evolution to take full advantage of plants beyond Earth.",
+    "findings": "The paper outlines a theoretical roadmap for using synthetic biology to engineer plants and microorganisms for survival and utilization on Mars, focusing on enhancing photosynthesis, stress tolerance, and bio-production capabilities to support human outposts.",
+    "result": "Not explicitly stated",
+    "confidenceIndex": 0.9,
+    "supportingExtract": "Using the framework of the forthcoming human missions to Mars, here we discuss a series of bioengineering endeavors that will enable us to take full advantage of plants in the context of a Martian greenhouse. We also propose a roadmap for research on adapting life to Mars and outline our opinion that synthetic biology efforts towards this goal will contribute to solving some of the main agricultural and industrial challenges here on Earth.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Briardo Llorente.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2018 Briardo Llorente.pdf"
-  },
-  {
-    "title": "Fabrication of Flexible Thermoelectric Energy Harvesting System",
-    "authors": [
-      "Guangxi Wu",
-      "Ferin Neff",
-      "Xiong (Bill) Yu"
-    ],
-    "year": "2018",
-    "publisher": "ASCE",
-    "researchType": "Primary Literature",
-    "publicationType": "Conference Paper/Proceedings",
-    "applicationScenario": [
-      "Surface",
-      "Orbital"
-    ],
-    "applicationLocation": [
-      "Mars",
-      "Moon",
-      "Space"
-    ],
-    "researchFoci": [
-      "Materials Science",
-      "Systems Engineering and Design."
-    ],
-    "confidenceIndex": 1,
-    "supportingExtract": "This paper describes procedures incurred in the fabrication of thermoelectric energy harvester on flexible substrates. An electrically parallel structure is proposed, which features higher energy efficiency than the counterpart electrically series structure based on theoretical analyses. As proof of concept, flexible thermoelectric harvesters in electrically parallel and series structures are prepared with thick film printing procedures.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Guangxi Wu.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2018 Guangxi Wu.pdf"
   },
   {
     "title": "Soil Mechanics in Vacuum Chamber",
@@ -327,18 +311,50 @@
       "Surface"
     ],
     "applicationLocation": [
-      "Moon",
-      "Mars"
+      "Moon"
     ],
     "researchFoci": [
       "Geotechnical Engineering",
       "ISRU"
     ],
+    "findings": "The study found that soil disturbance in dust vacuum chambers during depressurization can be mitigated by controlling the vacuum rate based on the maximum air velocity limit that triggers seepage force exceeding the soil's dead load.",
+    "result": "The numerical model demonstrated that when the vacuum rate was reduced from -0.33 kPa/sec to -0.11 kPa/sec, the air velocity dropped, thereby preventing the seepage stress from exceeding the soil dead load and minimizing soil disturbance.",
     "confidenceIndex": 1,
-    "supportingExtract": "This study presents a new approach in soil mechanics that is particularly applicable to the dust vacuum chamber. One of the main issues in operating the dust vacuum chamber is soil disturbance problems during the evacuation... This study suggested a new operating guideline to minimize the soil disturbance in dust vacuum chamber.",
+    "supportingExtract": "From the numerical analysis results, optimum guidelines have been proposed to ensure that soil disturbance is minimized. [...] When the vacuum rate was decreased to -0.11 kPa/sec, the air velocity suddenly dropped and then it increased again. [...] Ultimately, it is worth noting that this numerical approach can be used to suggest an optimal guideline for vacuum pump operation.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 G. H. Go.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2018 G. H. Go.pdf"
+  },
+  {
+    "title": "Fabrication of Flexible Thermoelectric Energy Harvesting System",
+    "authors": [
+      "Guangxi Wu",
+      "Ferin Neff",
+      "Xiong (Bill) Yu"
+    ],
+    "year": "2018",
+    "publisher": "ASCE",
+    "researchType": "Primary Literature",
+    "publicationType": "Conference Paper/Proceedings",
+    "applicationScenario": [
+      "Surface"
+    ],
+    "applicationLocation": [
+      "Mars",
+      "Moon",
+      "Space"
+    ],
+    "researchFoci": [
+      "Materials Science",
+      "Additive & Automated Construction"
+    ],
+    "findings": "The paper proposes an electrically parallel thermoelectric module (TEM) structure to improve energy conversion efficiency compared to the conventional electrically series structure, and successfully demonstrates the fabrication of these flexible devices using thick film printing technology.",
+    "result": "Analytical and experimental comparisons indicate a potential energy conversion efficiency improvement of approximately 32% by using the electrically parallel structure compared to the conventional series structure when utilizing specific thermoelectric materials.",
+    "confidenceIndex": 0.95,
+    "supportingExtract": "This paper proposes an electrically parallel TEM structure, which is promising to not only improve the energy conversion efficiency, but also simplify the fabrication process of large area flexible TEGs. ... The overall module efficiency will be increased for the proposed electrically parallel structure, for example by 32% if the material properties listed in Table 1 is involved. ... As proof of concept, flexible thermoelectric harvesters in electrically parallel and series structures are prepared with thick film printing procedures.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Guangxi Wu.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2018 Guangxi Wu.pdf"
   },
   {
     "title": "Thermal and Mechanical Properties of Cementitious Composites for Additive Construction of Energy-Saving Habitats",
@@ -351,7 +367,7 @@
     "year": "2018",
     "publisher": "ASCE",
     "researchType": "Primary Literature",
-    "publicationType": "Research/Original Article",
+    "publicationType": "Conference Paper/Proceedings",
     "applicationScenario": [
       "Surface"
     ],
@@ -363,8 +379,10 @@
       "Materials Science",
       "Additive & Automated Construction"
     ],
+    "findings": "The thermal properties of LWCC are primarily governed by the volume fraction of lightweight fillers, whereas the mechanical properties are heavily influenced by the type, particle size, and shell thickness of the fillers.",
+    "result": "Dynamic compressive strength of LWCC increased by 40%, 48.5%, and 66.7% over quasi-static strength at strain rates of 400 s^-1, 600 s^-1, and 920 s^-1 respectively.",
     "confidenceIndex": 1,
-    "supportingExtract": "Because of its advantages in reducing both structural weight and thermal conductivity, it has the potential to be used in the construction of terrestrial and extraterrestrial habits. Furthermore, since it has relatively small and spherical shaped aggregates, LWCC is also suitable for extrusion based 3-D printing. In this research, a comprehensive and thorough study was carried out to investigate the effects of different lightweight fillers on both the mechanical and thermal properties of LWCC.",
+    "supportingExtract": "The results indicated that the thermal property of LWCC is mostly governed by the volume fraction of LWFs whereas the mechanical properties are heavily affected by the type and property of LWF particles included... At the strain rate of 400 s-1, the dynamic compressive strength is 32.2 MPa which is about 40% higher than quasi-static strength. As the strain rate increases, the maximum stress increases where the dynamic strength are 48.5% and 66.7% higher than static strength for strain rates of 600 s-1 and 920 s-1, respectively.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Hongyu Zhou.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2018 Hongyu Zhou.pdf"
@@ -391,11 +409,12 @@
     "researchFoci": [
       "ISRU",
       "Materials Science",
-      "Specialized Construction Techniques",
       "Structural Design"
     ],
+    "findings": "The study establishes a multiscale framework for modeling and testing protein-bound soil composites to predict their mechanical properties. The framework involves integrating nanoscale (nanoindentation), microscale (statistically equivalent periodic unit cells), mesoscale (Rigid Body Spring Model), and macroscale (triaxial and uniaxial testing) approaches to overcome challenges in material characterization for extraterrestrial construction.",
+    "result": "The research provides a methodological foundation for predicting material behavior, noting specifically that protein-bound regolith exhibits a stiffness of approximately 1.2 GPa and a compressive strength of approximately 12 MPa, which differs from traditional cement mortar.",
     "confidenceIndex": 1,
-    "supportingExtract": "This paper proposes a multi-scale framework to model the composite’s fracture properties in order to design a durable material that can resist extreme environments... The final goal of this project is to have a robust computational simulation that can enable the prediction of the mechanical properties of the protein-bound regolith material to be used to design future structures on the Moon, Mars, or other celestial bodies.",
+    "supportingExtract": "This paper presents the developing framework for a multi-scale understanding of protein- bound soils. The framework’s primary engine is micromechanics modeling and microscale imaging to capture the material’s heterogeneity. In comparing cement mortar to protein-bound soils, differences in the microstructure and fundamental components translate into different responses in the bulk mechanical behavior, with stiffness being chief among them. Cement mortar has a stiffness of approximately 22 GPa and a compressive strength of approximately 35 MPa. Conversely, protein-bound regolith has a stiffness of approximately 1.2 GPa and a compressive strength of approximately 12 MPa.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 I. Rosa.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2018 I. Rosa.pdf"
@@ -416,20 +435,50 @@
     ],
     "applicationLocation": [
       "Mars",
-      "Moon",
-      "Space"
+      "Moon"
     ],
     "researchFoci": [
-      "Materials Science",
-      "Structural Design",
       "ISRU",
-      "Specialized Construction Techniques"
+      "Materials Science",
+      "Structural Design"
     ],
+    "findings": "The review identifies that while composite materials like concrete (specifically sulfur concrete and geopolymer concrete) are suitable for space habitat construction due to their documented performance under extreme conditions, the lack of hydration water and the need for processing techniques under microgravity and vacuum conditions remain significant challenges.",
+    "result": "The study concludes that sulfur concrete can achieve compressive strengths between 20 and 75.7 MPa, and polymeric/geopolymer concretes offer viable alternatives for space infrastructure, although they require further research regarding long-term durability under thermal cycling and radiation.",
     "confidenceIndex": 1,
-    "supportingExtract": "This paper presents a state-of-the-art literature review on recent developments of “space-native” construction materials, and highlights evolutionary design concepts for “space-resilient” structures (i.e., colonies and habitats).",
+    "supportingExtract": "This paper presents a state-of-the-art literature review on recent developments of “space-native” construction materials, and highlights evolutionary design concepts for “space-resilient” structures (i.e., colonies and habitats)... Researchers seem to converge on the fact that among all available construction materials, composite materials (such as concrete) could be the most suitable material for fabrication of space structures... As shown in this table, the compressive strength of lunar concrete samples ranges from 39 to 75.7 MPa and from 20 to 63 MPa for sulfur concrete.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Mohannad Z. Naser.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2018 Mohannad Z. Naser.pdf"
+  },
+  {
+    "title": "Arching Effect of Planetary Regolith Simulant under Extraterrestrial Gravities",
+    "authors": [
+      "Ruilin Li",
+      "Guoqing Zhou",
+      "Matthew R. Hall"
+    ],
+    "year": "2018",
+    "publisher": "American Society of Civil Engineers",
+    "researchType": "Primary Literature",
+    "publicationType": "Research/Original Article",
+    "applicationScenario": [
+      "Underground"
+    ],
+    "applicationLocation": [
+      "Mars",
+      "Moon",
+      "Asteroids"
+    ],
+    "researchFoci": [
+      "Geotechnical Engineering"
+    ],
+    "findings": "Gravity has a significant influence on both the unloading rate for soil pressure on the trapdoor and the reduction in soil pressure, with soil pressure unloading rates increasing when gravity increases.",
+    "result": "The normalized soil pressure on the trapdoor decreases nonlinearly as the normalized trapdoor displacement increases, and the reduction in normalized soil pressure is gravity-dependent, with larger gravity resulting in larger remaining normalized soil pressure.",
+    "confidenceIndex": 1,
+    "supportingExtract": "The results show that the gravity has a significant influence on both the unloading rate for soil pressure on the trapdoor and the reduction in soil pressure. Both soil pressure and normalized soil pressure unload rapidly when moving the trapdoor down at a lower gravity. The unloading rate for soil pressure increases when gravity increases. However, that of the normalized soil pressure decreases.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Ruilin Li.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2018 Ruilin Li.pdf"
   },
   {
     "title": "Multiobjective Optimization for Structural Design of Lunar Habitats",
@@ -453,43 +502,15 @@
     "researchFoci": [
       "ISRU",
       "Materials Science",
-      "Structural Design",
-      "Systems Engineering and Design."
+      "Structural Design"
     ],
+    "findings": "The research identified that regolith-based reinforced concrete serves as a viable alternative to traditional aluminum shells for lunar habitats, offering superior radiation and meteoroid protection through multi-objective Pareto optimization.",
+    "result": "The study demonstrated that reinforced concrete habitats achieve increased radiation and meteoroid protection compared to aluminum, with CFRP reinforcement effectively containing internal pressure while minimizing mass transported from Earth.",
     "confidenceIndex": 1,
-    "supportingExtract": "Earth and Space 2018 169 © ASCE Multiobjective Optimization for Structural Design of Lunar Habitats... While the cases presented here are limited to lunar surface systems, both the general architectures and the methodology for analysis and design are applicable to future Mars settlements.",
+    "supportingExtract": "The results show some general trends which match with recommendations from the lunar concrete literature. For one, the maximum payload from Earth is reduced due to the increased strength and reduced density of the CFRP compared to aluminum for a given volume. Second, the increase in lunar mass, required to build the concrete habitat, greatly increases both the meteoroid and radiation protection over the aluminum case.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Valentina Sumini.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2018 Valentina Sumini.pdf"
-  },
-  {
-    "title": "Arching Effect of Planetary Regolith Simulant under Extraterrestrial Gravities",
-    "authors": [
-      "Ruilin Li",
-      "Guoqing Zhou",
-      "Matthew R. Hall"
-    ],
-    "year": "2018",
-    "publisher": "American Society of Civil Engineers",
-    "researchType": "Primary Literature",
-    "publicationType": "Research/Original Article",
-    "applicationScenario": [
-      "Underground"
-    ],
-    "applicationLocation": [
-      "Moon",
-      "Mars",
-      "Asteroids"
-    ],
-    "researchFoci": [
-      "Geotechnical Engineering",
-      "Materials Science"
-    ],
-    "confidenceIndex": 1,
-    "supportingExtract": "This paper studies the influence of extraterrestrial gravities on the arching effect surrounding deeply buried structures in planetary regolith using trapdoor experiments. Off-earth regoliths are physically simulated using a magnetically sensitive planetary regolith simulant, whereas the gravities are simulated by applying a uniform magnetic body force.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2018 Ruilin Li.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2018 Ruilin Li.pdf"
   },
   {
     "title": "Extraterrestrial construction materials",
@@ -497,7 +518,7 @@
       "M.Z. Naser"
     ],
     "year": "2019",
-    "publisher": "Progress in Materials Science",
+    "publisher": "Elsevier",
     "researchType": "Secondary Literature",
     "publicationType": "Review Article",
     "applicationScenario": [
@@ -513,11 +534,46 @@
       "Materials Science",
       "Specialized Construction Techniques"
     ],
-    "confidenceIndex": 1,
-    "supportingExtract": "This review explores the suitability of construction materials derived from lunar and Martian regolith along with concrete derivatives, space-native metals and composites, as well as advanced and non-traditional materials for interplanetary construction. This review also identifies processing techniques suitable to produce non-terrestrial construction materials in the alien environment of space (i.e. vacuum, low gravity, etc.)",
+    "findings": "The paper concludes that realizing permanent, Earth-independent space habitats requires the development of novel extraterrestrial construction materials derived from in-situ resources (lunar/Martian regolith, rocks, metals, and composites) and highlights that current processing knowledge and material characterization for space environments remain limited.",
+    "result": "Not explicitly stated",
+    "confidenceIndex": 0.9,
+    "supportingExtract": "In order to bridge this knowledge gap, a comprehensive assessment on the physical features and property characteristics of extraterrestrial construction materials such as those exploited from the Moon and Mars, mined from near-earth objects (NEOs), or cultured through modern technologies is presented herein... This review also identifies processing techniques suitable to produce non-terrestrial construction materials in the alien environment of space... and highlights emerging trends and future directions to stimulate further research in this area.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2019 M.Z. Naser   1.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2019 M.Z. Naser   1.pdf"
+  },
+  {
+    "title": "Space-native construction materials for earth-independent and sustainable infrastructure",
+    "authors": [
+      "M.Z. Naser"
+    ],
+    "year": "2019",
+    "publisher": "Elsevier Ltd. (Acta Astronautica)",
+    "researchType": "Secondary Literature",
+    "publicationType": "Review Article",
+    "applicationScenario": [
+      "Surface",
+      "Underground"
+    ],
+    "applicationLocation": [
+      "Mars",
+      "Moon",
+      "Asteroids"
+    ],
+    "researchFoci": [
+      "ISRU",
+      "Sustainability",
+      "Materials Science",
+      "Specialized Construction Techniques",
+      "Structural Design"
+    ],
+    "findings": "The feasibility of creating sustainable, earth-independent infrastructure on the Moon and Mars depends on utilizing in-situ resources (regolith, minerals, sulfur) to develop resilient construction materials such as concrete, geopolymers, and metal alloys, while overcoming environmental challenges like radiation, vacuum, and thermal cycling.",
+    "result": "Indigenous materials like sulfur concrete, geopolymers, and sintered regolith are identified as viable alternatives to importing terrestrial materials, with potential cost reductions for human settlement infrastructure from $100 billion to approximately $40 billion.",
+    "confidenceIndex": 1,
+    "supportingExtract": "This review covers feasibility of exploiting in-situ lunar and Martian resources as well as harvesting of elements and compounds, from near Earth objects (NEOs), to produce extra-terrestrial materials suitable for construction of space-based infrastructure... The outcome of these studies has led to the realization that efficacious utilizing in-situ materials for space construction could reduce the overall cost of a human settlement from $100 to an average of $40 billion.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2019 M.Z. Naser.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2019 M.Z. Naser.pdf"
   },
   {
     "title": "Solar 3D printing of lunar regolith",
@@ -542,41 +598,13 @@
       "Materials Science",
       "Additive & Automated Construction"
     ],
+    "findings": "The authors demonstrated the feasibility of sintering lunar regolith layer-by-layer using concentrated sunlight and Xenon lamps, producing a 3D-printed brick from lunar regolith simulant.",
+    "result": "The sintered bricks exhibited a compression strength of 2.31 ± 0.30 MPa and a Young's Modulus of 0.14 ± 0.06 GPa.",
     "confidenceIndex": 1,
-    "supportingExtract": "In this work, the authors combined concentrated sunlight with a 3D printing process to create the first 3D printer capable of creating three-dimensional objects made of lunar regolith simulant sintered layer by layer by concentrated solar light.",
+    "supportingExtract": "The authors demonstrated the feasibility of sintering lunar regolith layer-by-layer solely using concentrated sunlight. Tests focusing Xenon light demonstrated however the concept with the manufacturing of the first solar 3D printed brick made of lunar regolith simulant. Results, in Table 2, show the current mechanical properties of the sintered regolith. The compression strength is, for now, still far from the compression strength of 150 MPa and Young's Modulus of 23 GPa that can be achieved with traditional sintering of the same lunar simulant [23]. Compression strength (MPa) 2.31 ± 0.30. Young's Modulus (GPa) 0.14 ± 0.06.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2019 Meurisse.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2019 Meurisse.pdf"
-  },
-  {
-    "title": "Space-native construction materials for earth-independent and sustainable infrastructure",
-    "authors": [
-      "M.Z. Naser"
-    ],
-    "year": "2019",
-    "publisher": "Elsevier Ltd.",
-    "researchType": "Secondary Literature",
-    "publicationType": "Review Article",
-    "applicationScenario": [
-      "Surface",
-      "Underground"
-    ],
-    "applicationLocation": [
-      "Mars",
-      "Moon",
-      "Asteroids"
-    ],
-    "researchFoci": [
-      "ISRU",
-      "Sustainability",
-      "Materials Science",
-      "Structural Design"
-    ],
-    "confidenceIndex": 1,
-    "supportingExtract": "This review covers feasibility of exploiting in-situ lunar and Martian re- sources as well as harvesting of elements and compounds, from near Earth objects (NEOs), to produce extra- terrestrial materials suitable for construction of space-based infrastructure. In es- sence, this paper reviews past and recent advancements in construction-based materials that could be used in the design and development of space human bases and highlights design consideration for sustainable human set- tlements.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2019 M.Z. Naser.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2019 M.Z. Naser.pdf"
   },
   {
     "title": "Some Fuzzy Measures Constructing Paradigm and Methods From Given Measure Spaces and Evaluation Information",
@@ -586,7 +614,7 @@
       "Ronald R. Yager"
     ],
     "year": "2022",
-    "publisher": "IEEE",
+    "publisher": "IEEE Transactions on Fuzzy Systems",
     "researchType": "Primary Literature",
     "publicationType": "Research/Original Article",
     "applicationScenario": [],
@@ -594,8 +622,10 @@
     "researchFoci": [
       "Systems Engineering and Design."
     ],
+    "findings": "The authors developed a novel constructing paradigm for generating fuzzy measures composed of four factors: source measure space, construction function, construction choice, and object/constructed measure space. They also proposed two construction choices for connecting belief and plausibility measures, and three methods for determining construction functions based on pessimism–optimism preferences.",
+    "result": "The proposed paradigm and methods enable the generation of a family of fuzzy measures {mP,φ,μ} that generalize and connect belief and plausibility measures, providing monotonic outcomes relative to decision-maker preferences.",
     "confidenceIndex": 1,
-    "supportingExtract": "In this article, we propose a constructing paradigm for generating fuzzy measures in some certain decision situations, such as in risk evaluation and decision making. The constructing paradigm involves four constructing factors: source measure space, construction function, construction choice, and object/constructed measure space.",
+    "supportingExtract": "In this article, we propose a constructing paradigm for generating fuzzy measures in some certain decision situations... The constructing paradigm involves four constructing factors: source measure space, construction function, construction choice, and object/constructed measure space... We also propose three different ways to determine construction functions in some certain decisional situations.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 Jin.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2020 Jin.pdf"
@@ -620,15 +650,46 @@
     ],
     "researchFoci": [
       "Geotechnical Engineering",
-      "Structural Design",
-      "Specialized Construction Techniques",
-      "Materials Science"
+      "Materials Science",
+      "Specialized Construction Techniques"
     ],
+    "findings": "The paper identifies and reviews significant publications concerning the geotechnical properties of Lunar and Martian regolith, ground motion hazards (Moonquakes and impacts), and various concepts for extraterrestrial structure design and foundation systems (e.g., landing pads). It emphasizes that while significant data exists for Lunar regolith, Martian data remains limited due to the lack of returned samples, and it highlights the need for multidisciplinary approaches for future civil engineering in space.",
+    "result": "The review provides a comprehensive synthesis of mechanical properties for original Lunar/Martian materials and simulants, compiles anchoring techniques, and summarizes structural design proposals, facilitating a better understanding of the current state of extraterrestrial construction technology.",
     "confidenceIndex": 1,
-    "supportingExtract": "The scope of this paper is to present a meticulous selection of the most significant publications within the scientific areas related to: (a) geotechnical engineering aspects... (b) ground motions generated by different types of Moonquakes and meteoroid impacts; (c) the different concepts and types of extraterrestrial (ET) structures",
+    "supportingExtract": "The scope of this paper is to present a meticulous selection of the most significant publications within the scientific areas related to: (a) geotechnical engineering aspects... (b) ground motions generated by different types of Moonquakes and meteoroid impacts; (c) the different concepts and types of extraterrestrial (ET) structures... a targeted effort was made to summarize and compile most of this information in representative tables and present it in chronological order, so as to showcase the evolution of human thinking as regards ET structures.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 Nicos Kalapodis.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2020 Nicos Kalapodis.pdf"
+  },
+  {
+    "title": "Mechanical behavior of the metal parts welded with extraterrestrial regolith simulant by the solar concentrator in ISRU & ISRF application",
+    "authors": [
+      "Wei Zheng",
+      "Guofu Qiao"
+    ],
+    "year": "2020",
+    "publisher": "Elsevier Ltd. (Advances in Space Research)",
+    "researchType": "Primary Literature",
+    "publicationType": "Research/Original Article",
+    "applicationScenario": [
+      "Surface"
+    ],
+    "applicationLocation": [
+      "Moon",
+      "Mars"
+    ],
+    "researchFoci": [
+      "ISRU",
+      "Materials Science",
+      "Specialized Construction Techniques"
+    ],
+    "findings": "It is feasible to weld metal parts (ferroalloy and titanium alloy) using extraterrestrial regolith simulant as a solder via solar concentration, resulting in brittle failure joints.",
+    "result": "The average ultimate tensile strength for ferroalloy specimens was 2.94 MPa (lunar) and 1.66 MPa (Martian), and for titanium alloy specimens was 4.95 MPa (lunar) and 2.59 MPa (Martian).",
+    "confidenceIndex": 1,
+    "supportingExtract": "The results show that it is possible to weld metal parts together with extraterrestrial regolith simulant by the solar concentrator. The average ultimate tensile strength of ferroalloy specimens welded with lunar and Martian regolith simulant is 2.94 MPa and 1.66 MPa; The average ultimate tensile strength of titanium alloy specimens welded with lunar and Martian regolith simulant is 4.95 MPa and 2.59 MPa. Moreover, the failure mode of all weldments was brittle failure.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 Wei Zheng.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2020 Wei Zheng.pdf"
   },
   {
     "title": "Topological design of a new family of legged mobile landers based on Truss-Mechanism Transformation method",
@@ -641,7 +702,7 @@
       "Ziyue Li"
     ],
     "year": "2020",
-    "publisher": "Elsevier Ltd.",
+    "publisher": "Elsevier",
     "researchType": "Primary Literature",
     "publicationType": "Research/Original Article",
     "applicationScenario": [
@@ -656,11 +717,41 @@
       "Structural Design",
       "Specialized Construction Techniques"
     ],
+    "findings": "The study proposes a novel synthesis method named the Truss-Mechanism Transformation (TMT) method for designing Legged Mobile Landers (LMLs), allowing them to function as both trusses and mechanisms in different mission phases.",
+    "result": "Two typical LML leg configurations featuring transmission limbs or electronic bolts were successfully analyzed and synthesized using the proposed TMT method.",
     "confidenceIndex": 1,
-    "supportingExtract": "This paper aims to address a novel synthesis method based on Truss-Mechanism Transformation (called as TMT method) for LMLs with the capabilities of trusses and mechanisms during different phases. ... To meet the needs of the “Returning” and “Base construction” missions of the extraterrestrial body’s exploration task, it is necessary to enable the legged stationary lander (LSL) to walk",
+    "supportingExtract": "This paper aims to address a novel synthesis method based on Truss-Mechanism Transformation (called as TMT method) for LMLs with the capabilities of trusses and mechanisms during different phases... Finally, after type evaluation, two typical LMLs’ legs with transmission limbs or electronic bolts are taken as examples to analyze the properties and abilities of LMLs during different phases.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 Rongfu Lin.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2020 Rongfu Lin.pdf"
+  },
+  {
+    "title": "A Framework for Extraterrestrial Environmental Assessment",
+    "authors": [
+      "William R. Kramer"
+    ],
+    "year": "2020",
+    "publisher": "Elsevier Ltd.",
+    "researchType": "Primary Literature",
+    "publicationType": "Research/Original Article",
+    "applicationScenario": [
+      "Surface"
+    ],
+    "applicationLocation": [
+      "Mars",
+      "Moon"
+    ],
+    "researchFoci": [
+      "Sustainability",
+      "Systems Engineering and Design."
+    ],
+    "findings": "The paper argues that a structured environmental assessment process is currently missing for space activities and proposes a simplified framework for extraterrestrial environmental assessment (EEA) to avoid, minimize, and mitigate potential harm to celestial environments.",
+    "result": "The author provides a structured, multi-section framework outline for an EEA, intended as a starting point for discussions on industry standards or voluntary assessment protocols to avoid future heavy-handed government regulation.",
+    "confidenceIndex": 1,
+    "supportingExtract": "In addition to advocating the need for an appropriate assessment and review process, this article proposes a simple framework as a starting point for discussion... The following outline proposes a starting point that will hopefully generate discussions leading to continual refinement. The goal is a draft practical, efficient, and effective framework that will facilitate a prelaunch review process.",
+    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 William R. Kramer.pdf",
+    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
+    "filePath": "papers/2020 William R. Kramer.pdf"
   },
   {
     "title": "Ultrasonic tool for the realization of combined action during the drilling of extraterrestrial objects",
@@ -681,73 +772,19 @@
     ],
     "applicationLocation": [
       "Mars",
-      "Moon",
       "Asteroids",
       "Space"
     ],
     "researchFoci": [
-      "Specialized Construction Techniques",
-      "Geotechnical Engineering"
+      "ISRU",
+      "Specialized Construction Techniques"
     ],
+    "findings": "The combined application of ultrasonic oscillations with low-frequency macro-oscillations and pseudo-rotation on the working tool significantly increases drilling speed compared to traditional ultrasonic drilling alone.",
+    "result": "The developed combined action device demonstrated an increase in drilling speed of up to 49% (approximately 1.5 times) compared to standard ultrasonic drilling.",
     "confidenceIndex": 1,
-    "supportingExtract": "The article is devoted to the problem of the efficiency increase of ultrasonic drilling of hard materials for the studies of the soils of the planets, asteroids and other space objects. It is proposed the solution of the problem by the help of developed device, which is able to realize simultaneously with ultrasound the action by low-frequency macro-oscillations and rotational motion of the leading edge of the tool.",
+    "supportingExtract": "The realization of complex action provided the growth of the drilling speed in comparison with ultrasonic drilling in 49%. The tests of the practical construction of the developed device showed the possibility of the speed increase of the ultrasonic drilling due to the additional low-frequency oscillations and pseudo-rotation in up to 1.5 times.",
     "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 Vladimir N Khmelev.pdf",
     "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
     "filePath": "papers/2020 Vladimir N Khmelev.pdf"
-  },
-  {
-    "title": "A Framework for Extraterrestrial Environmental Assessment",
-    "authors": [
-      "William R. Kramer"
-    ],
-    "year": "2020",
-    "publisher": "Elsevier Ltd.",
-    "researchType": "Primary Literature",
-    "publicationType": "Research/Original Article",
-    "applicationScenario": [
-      "Surface"
-    ],
-    "applicationLocation": [
-      "Mars",
-      "Moon"
-    ],
-    "researchFoci": [
-      "Sustainability",
-      "Construction Management & Planning",
-      "Media, Politics & Discourse."
-    ],
-    "confidenceIndex": 1,
-    "supportingExtract": "In addition to advocating the need for an appropriate assessment and review process, this article proposes a simple framework as a starting point for discussion.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 William R. Kramer.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2020 William R. Kramer.pdf"
-  },
-  {
-    "title": "Mechanical behavior of the metal parts welded with extraterrestrial regolith simulant by the solar concentrator in ISRU & ISRF application",
-    "authors": [
-      "Wei Zheng",
-      "Guofu Qiao"
-    ],
-    "year": "2020",
-    "publisher": "Elsevier Ltd. / COSPAR",
-    "researchType": "Primary Literature",
-    "publicationType": "Research/Original Article",
-    "applicationScenario": [
-      "Surface"
-    ],
-    "applicationLocation": [
-      "Moon",
-      "Mars"
-    ],
-    "researchFoci": [
-      "ISRU",
-      "Specialized Construction Techniques",
-      "Materials Science"
-    ],
-    "confidenceIndex": 1,
-    "supportingExtract": "This paper proposes a method for welding metal together with extraterrestrial regolith simulant by solar concentrator at ambient conditions. Herein the welding procedure is introduced, and the mechanical properties of weldments was tested by the tensile instrument. Finally, the microstructure of fusion zone of weldments is characterized.",
-    "id": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge#papers/2020 Wei Zheng.pdf",
-    "githubUrl": "https://github.com/zetazetalun/Space-Architecture-Graph-Knowledge",
-    "filePath": "papers/2020 Wei Zheng.pdf"
   }
 ]
